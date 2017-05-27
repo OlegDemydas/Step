@@ -1,0 +1,124 @@
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.exe.config
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.exe
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.pdb
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Edm.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.OData.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Newtonsoft.Json.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\System.Spatial.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Edm.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.OData.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Newtonsoft.Json.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\System.Spatial.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\de\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\es\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\fr\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\it\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ja\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ko\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\ru\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\0\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.csprojResolveAssemblyReference.cache
+D:\0\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.exe
+D:\0\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.pdb
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.WindowsAzure.Configuration.dll
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+D:\0\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.exe.config
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.exe
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.pdb
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\obj\Debug\ConsoleQueue.csprojResolveAssemblyReference.cache
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.exe
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ConsoleQueue.pdb
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.WindowsAzure.Configuration.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\System.Spatial.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\NLog.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\System.Spatial.xml
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\oleg\Documents\Visual Studio 2015\Projects\ConsoleQueue\ConsoleQueue\bin\Debug\zh-Hant\System.Spatial.resources.dll
